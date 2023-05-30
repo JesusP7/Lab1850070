@@ -45,7 +45,7 @@ conn.ehlo()
 
 conn.starttls()
 
-conn.login("chuyponce721@gmail.com", "erajjaadeahzmzom")
+conn.login("chuyponce721@gmail.com", "erajjaadhzmzom")
 
 conn.sendmail("chuyponce721@gmail.com", "gerardo.bernal@uanl.edu.mx", msg.as_string())
 
